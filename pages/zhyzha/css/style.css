@@ -1,0 +1,13 @@
+h2 {
+    background: url(../../../images/verh.gif) no-repeat left top;
+}
+
+.b1 {
+    width: 424px;
+    background: url(../../../images/zhyzha.gif) repeat-y left top;
+}
+
+.b3 {
+    background: url(../../../images/niz.gif) no-repeat left bottom;
+    margin: 0;
+}
