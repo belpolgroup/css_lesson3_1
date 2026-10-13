@@ -1,13 +1,31 @@
 h2 {
     background: url(../../../images/verh.gif) no-repeat left top;
+    padding: 5px 0 0 7px;
+    margin: 0;
+    font-family: "Arial Narrow", Arial, sans-serif;
+    font-size: 1.2em;
+    color: #94b767;
 }
 
 .b1 {
-    width: 424px;
     background: url(../../../images/zhyzha.gif) repeat-y left top;
+    width: 424px;
+}
+
+.b2 {
+    width: 414px;
+    margin: 0;
+    padding: 0 5px;
+    font-family: Tahoma, sans-serif;
+    font-size: 0.8em;
+    text-indent: 11%;
 }
 
 .b3 {
     background: url(../../../images/niz.gif) no-repeat left bottom;
     margin: 0;
+    padding: 0 5px 15px;
+    font-family: Tahoma, sans-serif;
+    font-size: 0.8em;
+    text-indent: 11%;
 }
